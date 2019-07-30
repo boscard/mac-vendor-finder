@@ -30,3 +30,4 @@ Script is using `curl` and `jq` commands so you have to install them before. Als
 
 Script is using https://macaddress.io/ as data backend. See more at https://macaddress.io/
 
+Docker image can be found on dockerhub: [boscard/mac-vendor-finder](https://hub.docker.com/r/boscard/mac-vendor-finder/)
